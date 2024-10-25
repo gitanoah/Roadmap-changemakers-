@@ -1,0 +1,8 @@
+{
+    "type": "bar",
+    "categoriesField": "Typeofwaste",
+    "summaryMethod": "countUnique",
+    "countField": "COLUMN3",
+    "splitField": "pounds(lbss)",
+    "__version": "2.9"
+}
